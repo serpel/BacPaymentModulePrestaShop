@@ -1,0 +1,19 @@
+{
+  "name": "cardinalpayment",
+  "description": "PrestaShop module cardinalpayment",
+  "homepage": "https://github.com/serpel/cadinalpayment",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Grintsys SA",
+      "email": "hello@grintsys.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
